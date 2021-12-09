@@ -1,1 +1,6 @@
-print('hey there')
+class Node:
+
+    def __init__(self) -> None:
+        pass
+
+    
